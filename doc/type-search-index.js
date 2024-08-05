@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"zeldaminiclone","l":"Blocks"},{"p":"zeldaminiclone","l":"Bullet"},{"p":"zeldaminiclone","l":"Game"},{"p":"zeldaminiclone","l":"Inimigo"},{"p":"zeldaminiclone","l":"Player"},{"p":"zeldaminiclone","l":"Spritesheet"},{"p":"zeldaminiclone","l":"World"}];updateSearchResults();
