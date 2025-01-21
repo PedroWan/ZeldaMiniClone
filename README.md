@@ -1,11 +1,13 @@
 # Sobre
 
 Meu primeiro contato com Java e programação de jogos treinando conceitos basicos como logica voltada a jogos.
+
 # Tecnologia
 
 1- JAVA
 
 # Conclusão
 
-Aprendi conceitos de criação de inimigos, players, mundos
-em um primeiro contato muito simples com exemplos 2d e em pixel art, mas com um aprendizado fenomenal sobre estes conceitos tão importantes para a logica de programação nos jogos.
+Testei conceitos basicos, como upload de imagens, mecanicas de travamento de tela renderização de sprite sheets, uso de arrays para criação de animações basicas
+criação e delimitação de um mundo para o personagem e os mobs andarem, aprendi muito sobre a base da programação orientada a objeto, criação de diversas clases
+e manipulação dos metodos construtores.
